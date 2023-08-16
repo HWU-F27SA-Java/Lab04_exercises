@@ -1,5 +1,6 @@
 {
 	"name": "F27SA Codespace",
+	"image": "mcr.microsoft.com/devcontainers/java",
 	"customizations": {
 		"vscode": {
 			"extensions": [
